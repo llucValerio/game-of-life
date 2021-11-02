@@ -11,3 +11,4 @@ If you want to know more about this game, you can read about it <a href="https:/
 
 ## Preview
 
+![game-of-life-v2](https://user-images.githubusercontent.com/79216174/139878009-76e17265-90fb-4101-81c6-311df6b62644.gif)
